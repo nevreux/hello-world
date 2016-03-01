@@ -2,5 +2,3 @@ mon premier document !!!
 
 Début du texte qui pourrait être un roman policier.
 
-Nouvelle ligne pour faire un Assume Unchanged
-Une autre ligne à la place
